@@ -1,11 +1,6 @@
-Alright — let’s rewrite the **Data Pipeline-as-a-Service** project spec with the updated decisions:
 
-* **API connectors are dynamic** (template + schema discovery) to avoid maintenance hell
-* **Data transformation is done via visual node-based workflows** (like Blender’s node editor or Unreal Engine’s blueprint system)
 
----
-
-# **Updated Project Spec — Data Pipeline-as-a-Service (DPaaS)**
+# ** Project Spec — Data Pipeline-as-a-Service (DPaaS)**
 
 *"The easiest way to connect, transform, and visualize real-time public data — without code."*
 
